@@ -20,3 +20,4 @@ btnContact.addEventListener("click", goto_contact);
 
 const bgTabs = document.getElementById("tabs");
 bgTabs.style.backgroundColor = "orange";
+bgTabs.style.padding = "20px";
